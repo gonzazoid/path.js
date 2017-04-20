@@ -2,12 +2,15 @@
     "compilerOptions": {
         "jsx": "react"
        ,"jsxFactory": "dom.createElement"
-       ,"lib": ["ES2017", "DOM"]
+       ,"lib": ["ES2015.Proxy", "ES2017"]
        ,"target": "ES5"
        ,"module": "commonjs"
        ,"removeComments": true
        ,"noImplicitAny": true
        ,"declaration": true
-       ,"declarationDir" : "./typings"
-    }
+       ,"outDir" : "./build"
+    },
+    "files": [
+        "index.ts"
+    ]
 }
