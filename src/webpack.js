@@ -12,6 +12,8 @@ const config = {
         path: __dirname + '/build/'
        ,pathinfo: true
        ,filename: '[name].js'
+       ,library: "path.js"
+       ,libraryTarget: "commonjs2"
     }
    ,devtool: 'source-map'
    ,plugins: [
