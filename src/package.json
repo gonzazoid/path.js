@@ -5,7 +5,7 @@
   "main": "webpack.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "rm -rf ../lib && rm -rf ./build && mkdir ../lib && mkdir ./build && tslint -c tslint.json 'index.ts' && tsc  -p 'tsconfig.json' && cp ./build/index.js ../lib/path.js && cp -R ./build/index.d.ts ../typings/"
+    "build": "rm -rf ../lib && rm -rf ./build && rm -rf ../typings && mkdir ../lib && mkdir ./build && mkdir ../typings && tslint -c tslint.json 'index.ts' && tsc  -p 'tsconfig.json' && cp ./build/index.js ../lib/path.js && cp -R ./build/index.d.ts ../typings/"
   },
   "author": "Timur Appaev <alloaolla@gmail.com>",
   "license": "MIT",
