@@ -1,0 +1,15 @@
+{
+  "name": "gonzazoid.path.js",
+  "version": "0.0.1",
+  "description": "path provider object",
+  "main": "lib/path.js",
+  "typings": "typings/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Timur Appaev <alloaolla@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "dependencies": {}
+}

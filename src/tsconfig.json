@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "jsx": "react"
+       ,"jsxFactory": "dom.createElement"
+       ,"lib": ["ES2017", "DOM"]
+       ,"target": "ES5"
+       ,"module": "commonjs"
+       ,"removeComments": true
+       ,"noImplicitAny": true
+       ,"declaration": true
+       ,"declarationDir" : "./typings"
+    }
+}
