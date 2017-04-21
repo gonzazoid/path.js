@@ -4,12 +4,14 @@
   "description": "path provider object",
   "main": "lib/path.js",
   "typings": "typings/index.d.ts",
+  "repository": {
+    "type" : "git", "url" : "https://github.com/gonzazoid/path.js.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Timur Appaev <alloaolla@gmail.com>",
   "license": "MIT",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {}
 }
