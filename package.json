@@ -1,6 +1,6 @@
 {
   "name": "gonzazoid.path.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "path provider object",
   "main": "lib/path.js",
   "typings": "typings/index.d.ts",
