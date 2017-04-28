@@ -2,15 +2,16 @@
     "compilerOptions": {
         "jsx": "react"
        ,"jsxFactory": "dom.createElement"
-       ,"lib": ["ES2015.Proxy", "ES2017"]
+       ,"lib": ["ES6", "ES2015.Proxy"]
        ,"target": "ES5"
        ,"module": "commonjs"
        ,"removeComments": true
        ,"noImplicitAny": true
        ,"declaration": true
-       ,"outDir" : "./build"
+       ,"outDir" : "../build"
     },
     "files": [
-        "index.ts"
+        "../lib/path.ts"
+       ,"../lib/tests.ts"
     ]
 }
