@@ -1,6 +1,9 @@
 # path.js
 path provider object
 
+<img src="https://img.shields.io/travis/gonzazoid/path.js.svg"></img>
+<hr/>
+
 Path(target_object, start_token?)
 
 path.js предоставляет всего одну функцию (Path) которая на основе переданного ей объекта(массива) генерирует объект path, назначение которого - хранить в себе путь до какого либо свойства в целевом объекте.
