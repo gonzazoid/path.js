@@ -1,5 +1,5 @@
 
-# <img src="https://img.shields.io/travis/gonzazoid/path.js.svg"></img> <img src="https://img.shields.io/npm/v/path.js.svg"></img>
+# <img src="https://img.shields.io/travis/gonzazoid/path.js.svg"></img> <img src="https://img.shields.io/npm/v/gonzazoid.path.js.svg"></img>
  
 # path.js
 path provider object
