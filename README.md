@@ -1,8 +1,8 @@
+
+<img src="https://img.shields.io/travis/gonzazoid/path.js.svg"></img> <img src="https://img.shields.io/npm/v/path.js.svg"></img>
+# 
 # path.js
 path provider object
-
-<img src="https://img.shields.io/travis/gonzazoid/path.js.svg"></img>
-<hr size="1"></hr>
 
 Path(target_object, start_token?)
 
